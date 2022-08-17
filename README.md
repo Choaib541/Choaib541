@@ -72,6 +72,8 @@
   src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"
 />
 
+## About me 💬
+I'm a self-taught full stack programmer and a computer science student at ofppt-ista-settat with one year of experience,I worked with multiple students from many diffrent universities on backend and front end projects using php laravel and javascript reactjs
 
 <!--
 **Choaib541/Choaib541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
